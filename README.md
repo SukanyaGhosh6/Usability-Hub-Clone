@@ -1,6 +1,16 @@
 # Usability-Hub-Clone
 **Usability Hub Website Clone - README**
 
+# Screenshots of the website:
+
+![Screenshot (126)](https://github.com/SukanyaGhosh6/Usability-Hub-Clone/assets/78369568/f23f712d-926d-48b2-a387-158adb3414af)
+![Screenshot (127)](https://github.com/SukanyaGhosh6/Usability-Hub-Clone/assets/78369568/0108f7f7-60a8-4d37-8079-d5dce1588306)
+![Screenshot (128)](https://github.com/SukanyaGhosh6/Usability-Hub-Clone/assets/78369568/980d64fd-019f-4619-856d-c82627b604b3)
+![Screenshot (129)](https://github.com/SukanyaGhosh6/Usability-Hub-Clone/assets/78369568/2b703af1-ec69-4741-8d63-0a9307989dea)
+![Screenshot (130)](https://github.com/SukanyaGhosh6/Usability-Hub-Clone/assets/78369568/2f3aaa34-1e2d-4ca7-9544-953f06298f59)
+![Uploading Screenshot (131).png…]()
+![Uploading Screenshot (132).png…]()
+![Uploading Screenshot (133).png…]()
 
 
 Welcome to the Usability Hub Website Clone project! This repository contains a replica of the home page of the Usability Hub website. This clone project is intended for learning purposes and to showcase web development skills in HTML, CSS, and JavaScript. The Usability Hub website is a platform that allows users to conduct usability tests and gather feedback on their designs.
